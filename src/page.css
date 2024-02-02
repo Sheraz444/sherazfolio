@@ -1,0 +1,290 @@
+
+.icoon {
+    margin-right: 20px;
+    /* padding: 10px; */
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+    
+.bt{
+    padding-top: 10px;
+}
+.bt button{
+    line-height: 40px;
+    font-size: 20px;
+border-radius: 10px;
+padding-left: 35px;
+padding-right: 35px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.row .left{
+    margin-top: 100px;
+    justify-content: center;
+}
+/* .row .left .heading ::before{
+    height: 3px;
+    width: 80px;
+    background-color: aquamarine;
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    left: 0%;
+    bottom: 0%;
+    content: ""; */
+    
+.row .left .heading{
+margin-left: 25px;
+margin-bottom: 12px;
+animation-delay: 0.5s;
+animation-delay: 0.5s;
+}
+.row .left .heading span{
+    margin: 10px;
+    font-size: 30px;
+}
+.left .hellow{
+    margin-left: 20px;
+ 
+}
+.left .hellow h1{
+    margin-left: 20px;
+    font-size: 70px;
+    font-weight:700;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.left .intro {
+    padding: 20px;
+    margin: 15px;
+    font-size: 20px;
+   
+}
+.left .buttn{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.main .buttn button{
+/* width: 30%; */
+font-size: 20px;
+border-radius: 10px;
+padding-left: 35px;
+padding-right: 35px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+
+/* ======================================= right Image */
+.right{
+    padding: 10px;
+    overflow-x: hidden;
+
+}
+.right .pic{
+    padding: 20px;
+    width: auto;
+    
+}
+.right .pic img{
+    padding: 10px;
+    width: 100%;
+    height: auto;
+}
+
+
+/* ============================ skills section */
+.row .card{
+    margin: 10px 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    width: fit-content;
+    height:50vh;
+    background-color: rgb(29, 29, 33) ;
+    color: white;
+    border-radius: 20px;
+;
+}
+.row .card:hover{
+    background-color: rgb(93, 227, 159);
+    box-shadow: 0 0 5px rgb(93, 227, 159),
+    0 0 5px rgb(93, 227, 159), 0 0 5px rgb(93, 227, 159),
+    0 0 5px  rgb(93, 227, 159), 0 0 50px  rgb(93, 227, 159);   
+    transition: 2s;
+}
+.logo{
+    border: 2px solid rgb(83, 202, 142);
+    border-radius: 50%;
+    width: fit-content;
+    padding: 30px;
+    margin-left: 95px;
+    margin-top: 40px;
+}
+
+.right .wrapper{
+  margin-top: 50%; 
+  padding: 20px;
+}
+.right .heading span{
+    color: rgb(83, 202, 142);
+    font-size: 30px ;
+}
+.right .detail{
+    color: white;
+    margin-top: 10px;
+}
+.right .detail p{
+    font-size: 20px;
+}
+.right .detail button{
+    font-size: 20px;
+    border-radius: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;   
+}
+/* ========================== projects sec ======================= */
+.leftd .wraper{
+    margin-top: 40%;
+    padding: 30px;
+}
+.leftd .wraper span{
+    color:rgb(83, 202, 142);
+    font-size: 20px;
+}
+.leftd .wraper h1{
+    font-size: 40px;
+    color: white;
+    margin: 15px 0px;
+}
+.leftd .wraper p{
+    font-size: 20px;
+    color: white;
+}
+.rightp .pico{
+    margin-top: 20%;
+    margin-bottom: 10%;
+
+}
+.rightp .pico img{
+    border-radius: 45px;
+    width: 100%;
+    padding: 30px;
+
+}
+/* ======= part 2 =====*/
+.leftp .pico{
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+.leftp .pico img{
+    border-radius: 45px;
+    width: 100%;
+    padding: 30px;
+}
+.rightd .wraper{
+    margin-top: 40%;
+    padding: 30px;
+}
+.rightd .wraper span{
+    color:rgb(83, 202, 142);
+    font-size: 20px;
+}
+.rightd .wraper h1{
+    font-size: 40px;
+    color: white;
+    margin: 15px 0px;
+
+}
+.rightd .wraper p{
+    font-size: 20px;
+    color: white;
+
+}
+.wrape{
+    background-color: rgb(29, 29, 33);
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+padding: 20px;
+    border-radius: 40px;
+
+}
+.wrape .msg{
+    align-items: center;
+    align-content: center;
+    height: 50vh;
+    padding-bottom: 20px;
+  
+
+}
+.wrape .msg h1{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+    
+
+.wrape .msg  h6{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+ 
+}
+.wrape .msg .but{
+    
+    margin-top: 50px;
+    margin-left: 48%;
+
+
+}
+.wrape .msg .but button{
+    width:auto;
+    font-size: 20px;
+
+}
+.dc{
+padding-left: 30px;
+}
+    
+
+.social img{
+    width: 100%;
+    height: 14vh;
+}
+
+
+
+/*  ==========================animation ================================== */
+.anim{
+    opacity: 0;
+    transform: translateY(40px);
+    animation: moveup 0.5s linear forwards;
+}
+@keyframes moveup{
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+/* ========================== Contact me sect ================= */
+
+.lft h2{
+    color:  rgb(83, 202, 142);
+    padding: 20px;
+}
+.lft h1{
+    color: white;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+.lft p{
+    color: white;
+    padding-left: 6px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
